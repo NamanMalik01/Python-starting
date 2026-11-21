@@ -1,0 +1,2 @@
+# Python-starting
+python codes
